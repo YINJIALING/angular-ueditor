@@ -9,7 +9,7 @@
   "main": ["dist/angular-ueditor.min.js", "dist/ueditor.config.js",
     "dist/ueditor.all.js","lang/zh-cn/zh-cn.js","dist/themes/default/css/ueditor.css",
     "dist/themes/iframe.css ","dist/themes/default/css/ueditor.css","dist/third-party/zeroclipboard/ZeroClipboard.js",
-    "dist/third-party/codemirror/codemirror.js","dist/third-party/codemirror/codemirror.css "],
+    "dist/third-party/codemirror/codemirror.js","dist/third-party/codemirror/codemirror.css"],
   "keywords": [
     "angular",
     "ueditor"
