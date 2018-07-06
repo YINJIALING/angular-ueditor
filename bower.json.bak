@@ -6,7 +6,7 @@
     "'Dio' <'1140969322@qq.com'>"
   ],
   "description": "angualr port for Baidu ueditor",
-  "main": ["dist/.*","lang/zh-cn/zh-cn.js"],
+  "main": ["dist/*","lang/zh-cn/zh-cn.js"],
   "keywords": [
     "angular",
     "ueditor"
