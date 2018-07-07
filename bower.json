@@ -6,15 +6,13 @@
     "'Dio' <'1140969322@qq.com'>"
   ],
   "description": "angualr port for Baidu ueditor",
-  "main": ["dist/.*", 
-    "lang/zh-cn/zh-cn.js"],
+  "main": ["**/.*"],
   "keywords": [
     "angular",
     "ueditor"
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",
