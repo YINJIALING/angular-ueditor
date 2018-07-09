@@ -6,7 +6,8 @@
     "'Dio' <'1140969322@qq.com'>"
   ],
   "description": "angualr port for Baidu ueditor",
-  "main": ["dist","lang/zh-cn/zh-cn.js"],
+  "main": ["dist/angular-ueditor.min.js", "dist/ueditor.config.js",
+    "dist/ueditor.all.js","lang/zh-cn/zh-cn.js","dist/themes","dist/third-party","dist/jsp/controller.jsp"],
   "keywords": [
     "angular",
     "ueditor"
