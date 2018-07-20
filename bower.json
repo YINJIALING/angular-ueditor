@@ -7,7 +7,8 @@
   ],
   "description": "angualr port for Baidu ueditor",
   "main": ["dist/angular-ueditor.min.js","dist/ueditor.all.js","dist/angular-ueditor.min.js",
-  "lang/zh-cn/zh-cn.js"],
+  "lang/zh-cn/zh-cn.js","dist/third-party/codemirror/codemirror.js","dist/themes/default/css/ueditor.css",
+  "dist/themes/iframe.css","dist/themes/default/css/ueditor.css","dist/third-party/zeroclipboard/ZeroClipboard.js "],
   "keywords": [
     "angular",
     "ueditor"
