@@ -19,7 +19,8 @@
   "dist/third-party/codemirror/codemirror.css",
   "dist/third-party/zeroclipboard/ZeroClipboard.swf",
   "dist/third-party/zeroclipboard/ZeroClipboard.js",
-  "dist/jsp/controller.jsp"],
+  "dist/jsp/controller.jsp",
+  "dist/themes/default/images/wordpaste.png"],
   "keywords": [
     "angular",
     "ueditor"
